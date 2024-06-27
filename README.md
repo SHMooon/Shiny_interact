@@ -11,6 +11,8 @@ seminar 7 cherry
 ## Useful links to learn shiny
 
 - https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html
+- https://mastering-shiny.org/index.html (https://mastering-shiny-solutions.org/bookmarking.html)
 - https://rstudio.github.io/shinydashboard/index.html
+- 
 
 
